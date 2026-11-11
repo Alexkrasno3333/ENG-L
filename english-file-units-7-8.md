@@ -120,6 +120,29 @@ Where the key gives two forms, both are accepted (backshift, or no change if it 
 
 1 E, 2 I, 3 G, 4 D, 5 C, 6 F, 7 H, 8 A, 9 B
 
+## Quick Tests 7 and 8
+
+The photocopiable sheets are English File Intermediate 3rd edition, 2013. Answers are in `English_File_Quick_Tests_7-8.docx`. Stress marks were read from the underline coordinates on the PDF, not from the plain text (the three copies of each word look identical once the line is stripped).
+
+Sounds follow the lesson, not a general dictionary guess:
+
+- Test 7, letter u: /uː/ rude, rules, true; /ʌ/ lunch, nun, result, study, subject, punish; /ʊ/ full, put; /juː/ education, music, pupil, student, university.
+- Test 8, letters ai: /eɪ/ complain, email, obtain, paid, painting; /eə/ airline, fair, repair; /ə/ bargain, certain, mountain; said is /e/.
+
+### Quick Test 7
+
+- Grammar: 1 A, 2 C, 3 B, 4 B, 5 B, 6 A, 7 C, 8 C, 9 B, 10 B, 11 C, 12 C, 13 A, 14 B, 15 B, 16 C, 17 B, 18 A, 19 C, 20 C
+- Vocabulary: 1 A, 2 B, 3 A, 4 B, 5 C, 6 B, 7 B, 8 A, 9 A, 10 B, 11 B, 12 A, 13 C, 14 C, 15 A, 16 C, 17 A, 18 B, 19 A, 20 C
+- Pronunciation: 1 C, 2 B, 3 C, 4 A, 5 B, 6 B (pen), 7 C (sec), 8 A (ra), 9 A (bal), 10 C (mes)
+
+### Quick Test 8
+
+- Grammar: 1 B, 2 C, 3 B, 4 B, 5 A, 6 A, 7 C, 8 B, 9 C, 10 A, 11 C, 12 B, 13 A, 14 A, 15 B, 16 B, 17 C, 18 A, 19 C, 20 C
+- Vocabulary: 1 B, 2 B, 3 B, 4 A, 5 B, 6 C, 7 B, 8 A, 9 B, 10 C, 11 A, 12 A, 13 B, 14 C, 15 A, 16 B, 17 B, 18 A, 19 C, 20 B
+- Pronunciation: 1 A, 2 C, 3 B, 4 A, 5 A, 6 C (O), 7 B (per), 8 A (per), 9 C (ca), 10 A (dun)
+
+Items that look close but are fixed by the sentence: 7.10 is were, not was. 7.11 is in the country (not on the coast, not on the ground floor). 7.14 is a wood fire. 8.8 is to help me (for help does not fit the word me). 8.11 is shopping. 8.15 permanent, because the sentence contrasts it with temporary.
+
 ## Sources used for the check
 
 - Workbook PDF from the link the student sent, including the answer key from p. 78.
